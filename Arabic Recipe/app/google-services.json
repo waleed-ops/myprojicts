@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516227768000",
+    "firebase_url": "https://arabic-recipe.firebaseio.com",
+    "project_id": "arabic-recipe",
+    "storage_bucket": "arabic-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516227768000:android:a95d00e0d533b4df295725",
+        "android_client_info": {
+          "package_name": "com.example.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516227768000-o5e6m0vd753tiv4i72bhs5fgvm7hap5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipe",
+            "certificate_hash": "89dcff4017bac2664da8866761e30a7575505a87"
+          }
+        },
+        {
+          "client_id": "516227768000-h7nh6io3iis96grl219ge3acrfjjgsc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsb08r-DPVfr1SN-3ZTzs_guiGwv77Nwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516227768000-h7nh6io3iis96grl219ge3acrfjjgsc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
